@@ -60,7 +60,6 @@ def get_moderation(question):
         "hate": "Content that expresses, incites, or promotes hate based on race, gender, ethnicity, religion, nationality, sexual orientation, disability status, or caste.",
         "hate/threatening": "Hateful content that also includes violence or serious harm towards the targeted group.",
         "self-harm": "Content that promotes, encourages, or depicts acts of self-harm, such as suicide, cutting, and eating disorders.",
-        "sexual": "Content meant to arouse sexual excitement, such as the description of sexual activity, or that promotes sexual services (excluding sex education and wellness).",
         "sexual/minors": "Sexual content that includes an individual who is under 18 years old.",
         "violence": "Content that promotes or glorifies violence or celebrates the suffering or humiliation of others.",
         "violence/graphic": "Violent content that depicts death, violence, or serious physical injury in extreme graphic detail.",
